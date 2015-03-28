@@ -1,0 +1,18 @@
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\bin\Debug\BrowserApplication.exe.config
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\bin\Debug\BrowserApplication.exe
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\bin\Debug\BrowserApplication.pdb
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.csprojResolveAssemblyReference.cache
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.Form1.resources
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.Properties.Resources.resources
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.csproj.GenerateResource.Cache
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.exe
+C:\Users\NewBil\AppData\Local\Temporary Projects\BrowserApplication\obj\Debug\BrowserApplication.pdb
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\bin\Debug\BrowserApplication.exe.config
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.exe
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.pdb
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\bin\Debug\BrowserApplication.exe
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\bin\Debug\BrowserApplication.pdb
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.csprojResolveAssemblyReference.cache
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.Form1.resources
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.Properties.Resources.resources
+D:\Workshop\Visual_Studio_Projects\BrowserApplication\BrowserApplication\obj\Debug\BrowserApplication.csproj.GenerateResource.Cache
